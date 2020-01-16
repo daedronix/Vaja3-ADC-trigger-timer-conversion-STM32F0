@@ -1,6 +1,6 @@
 # Vaja3-ADC-trigger-timer-conversion-STM32F0
 <h4> Glede na vašo razvojno ploščo in razširitveno vezje s tipkami ter potenciometri, izberite ustrezni analogni vhod. Kateri pin je to? </h4>
-<p> To je pin Pc0. </p>
+<p> To je pin PC0. </p>
 <h4> Glede na potenciometer na vaši ploščici izberite-obkljukajte ustrezni kanal/pin. Na zaslonu se vam mora ustrezno pobarvati izbrani pin v zeleno barvo. Kaj se izpiše poleg pina? </h4>
 <p> Poleg pina se izpiše ADC_IN10 </p>
 <h4> Aktiviramo samo zeleno LED diodo na ustreznem izhodu. </h4>
